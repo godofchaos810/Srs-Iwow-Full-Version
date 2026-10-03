@@ -239,4 +239,4 @@ This repository serves as the official landing page for SRS iWOW. The software i
 **Get the most recent version of SRS iWOW today!**
 
 ---
-**Last updated:** 2026-10-03 12:14:14 UTC
+**Last updated:** 2026-10-03 16:59:11 UTC
